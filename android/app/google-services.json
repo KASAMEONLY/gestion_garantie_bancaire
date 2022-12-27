@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945511926299",
+    "project_id": "gestion-garantie-bancaire",
+    "storage_bucket": "gestion-garantie-bancaire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945511926299:android:5177f707db66e031cd06be",
+        "android_client_info": {
+          "package_name": "bf.kasa.gestion_garantie_bancaire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945511926299-3nbm7dvut6qd7nhnoe8c4c2n9vk12rpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bf.kasa.gestion_garantie_bancaire",
+            "certificate_hash": "80c4ba51b1459ceb250f8ab3335987760750f8fd"
+          }
+        },
+        {
+          "client_id": "945511926299-mfbo11pvquod1psesj35o4js5g9hm6lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTb9Yp63taxOnISWkTjCHKl1TZBdh-_Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945511926299-mfbo11pvquod1psesj35o4js5g9hm6lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
